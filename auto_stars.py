@@ -48,5 +48,5 @@ def auto_stars(*repos, headless=True):
 
 
 if __name__ == '__main__':
-    repos = ['https://github.com/fjwCode/cerium', 'https://github.com/fjwCode/auto-answer-tnwz', 'https://github.com/fjwCode/platinum', 'https://github.com/fjwCode/wireless-control']
+    repos = ['https://github.com/rtfd/readthedocs.org', 'https://github.com/fjwCode/cerium', 'https://github.com/fjwCode/auto-answer-tnwz', 'https://github.com/fjwCode/platinum', 'https://github.com/fjwCode/wireless-control', 'https://github.com/SeleniumHQ/selenium', 'https://github.com/requests/requests', 'https://github.com/faif/python-patterns', 'https://github.com/kennethreitz/requests-html', 'https://github.com/joke2k/faker']
     auto_stars(*repos)
